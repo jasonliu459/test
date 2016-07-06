@@ -4,3 +4,4 @@ master change test
 feature1 changed
 issure 1 submit
 dev1 2 submi
+dev1 3 submit
